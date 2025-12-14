@@ -1,0 +1,33 @@
+### Maven ###
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+### Logs ###
+*.log
+logs/
+log/
+
+### OS junk ###
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Temp / backups ###
+*.tmp
+*.bak
+*.swp
+*~
+*.orig
+
+### Local env (если появятся) ###
+.env
+.env.*
